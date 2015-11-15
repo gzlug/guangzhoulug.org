@@ -1,5 +1,5 @@
 Title: GZLUG 第一次 Hacking Saturday！
-Slug: First Hacking Saturday
+Slug: FirstHackingSaturday
 Date:  2012-05-11
 Category: Announcement
 Tags: HackingSaturday, Party

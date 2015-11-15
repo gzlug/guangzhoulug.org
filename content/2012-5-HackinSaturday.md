@@ -1,6 +1,6 @@
 Title: Hacking Saturday 2012.5.19 At Beta Cafe
-Slug:  2015 5 Hacking Saturday
-Date:  2015-05-16
+Slug:  2012-5-Hacking-Saturday
+Date:  2012-05-16
 Category: Announcement
 Tags: HackingSaturday, Party
 Author: Jactry
