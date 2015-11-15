@@ -20,14 +20,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Site Source', 'https://github.com/fangpeishi/gzlug.org/'),
+	 ('Techparty', 'http://techparty.org/'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter','https://twitter.com/GuangzhouLUG'),
+          ('GoogleGroup', 'https://groups.google.com/forum/#!forum/gzlug'),
+          ('Weibo', 'http://weibo.com/gzlug'),
+          ('Douban', 'http://www.douban.com/people/gzlug/'))
 
 DEFAULT_PAGINATION = 10
 
