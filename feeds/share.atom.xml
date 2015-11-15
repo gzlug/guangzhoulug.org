@@ -18,4 +18,39 @@
 &lt;p&gt;R的偏后台，其中一个optimization的项目把我录了。bioconductor的shiny是我一直很喜欢的一个web前端，和mentor聊了聊，感觉自己的确没有前端经验，也就算了。  &lt;/p&gt;
 &lt;p&gt;我不是科班出身，计算机结构、操作系统之类的课程旁听过，作为一个没学会汇编，对底层的内存控制没什么感觉的人，混进R core team，我连想都没想过。  &lt;/p&gt;
 &lt;p&gt;走到这儿，其实作为一个contributer应该有的技能也就都具备了，以后还想继续混，也要看各位能不能在自己的领域里，用R解决些问题了。  &lt;/p&gt;
-&lt;p&gt;先聊这么多，六月聚会有机会再和各位聊。  &lt;/p&gt;</summary><category term="R"></category><category term="GSoC"></category></entry></feed>
+&lt;p&gt;先聊这么多，六月聚会有机会再和各位聊。  &lt;/p&gt;</summary><category term="R"></category><category term="GSoC"></category></entry><entry><title>Google Code-in 2012 阶段简报，首次有来自中国的学生完成了Google Code-in 任务</title><link href="http://gzlug.org/google%20code%20in%202012.html" rel="alternate"></link><updated>2012-12-22T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2012-12-22:google code in 2012.html</id><summary type="html">&lt;p&gt;原文由Qian Hong发至邮件列表：https://groups.google.com/group/gzlug/browse_thread/thread/823a22af63bdd4e4?hl=zh-CN  &lt;/p&gt;
+&lt;p&gt;Google code-in 是鼓励中学生参与开源项目的一项活动，面向全球17周岁以下的学生。参与并完成任务的学生都可以获得纪念品和奖品，但不是奖金。特别优秀的参与学生还可以获得赞助去Google山景城总部参观的全程费用，包括一名陪同监护人的费用。  &lt;/p&gt;
+&lt;p&gt;Google Open Source官方博客发布了今年Google Code-in活动的阶段简报。&lt;br /&gt;
+原文链接： http://google-opensource.blogspot.com/2012/12/google-code-in-2012-halfway-home_21.html  &lt;/p&gt;
+&lt;p&gt;全球共有超过1900名来自81个国家的学生注册了今年的活动。  &lt;/p&gt;
+&lt;p&gt;其中有两个国家是第一次有学生参加：&lt;br /&gt;
+United Arab Emirates 和 Zimbabwe（阿拉伯联合大公国 和 津巴布韦）&lt;/p&gt;
+&lt;p&gt;参与学生人数最多的国家依次为：&lt;br /&gt;
+- United States    877&lt;br /&gt;
+- India                 208
+- Canada               92
+- Bulgaria              81
+- United Kingdom 72
+- Romania              68
+- Australia              35
+- Poland                 29
+- South Korea        29
+- Spain                   29&lt;/p&gt;
+&lt;p&gt;其中7个国家是今年第一次有学生完成了Google Code-in的任务：&lt;br /&gt;
+China, Kenya (目前为止有6位学生了), Kuwait, Peru, Trinidad and Tobago, and Uruguay  &lt;/p&gt;
+&lt;p&gt;有5个国家的参与学生人数今年比去年翻了一番：&lt;br /&gt;
+Argentina, Australia, Ireland, Singapore, and South Korea.  &lt;/p&gt;
+&lt;p&gt;目前Google Code-in活动仍然接受学生报名，2013年1月13日之前都可以注册并认领任务，但所有任务都必须在 January&lt;br /&gt;
+14, 2012 at 17:00 UTC 之前完成。  &lt;/p&gt;
+&lt;p&gt;更多活动相关信息参见官方faq：&lt;br /&gt;
+http://www.google-melange.com/gci/document/show/gci_program/google/gci2012/help_page  &lt;/p&gt;
+&lt;p&gt;希望大家帮忙转发，多转发到中学教师集中的社区论坛，以及向身边的中学生朋友/中学生教师朋友介绍这类活动。  &lt;/p&gt;
+&lt;p&gt;同类活动中适合中学生的还有Google青少年科技创新大赛：&lt;br /&gt;
+http://www.google.com/intl/en/events/sciencefair/index.html  &lt;/p&gt;
+&lt;p&gt;适合大学生参加的则有：&lt;br /&gt;
+Google Summer of Code： https://code.google.com/intl/zh-CN/soc/&lt;br /&gt;
+欧洲航天局资助的 ESA summer of code：&lt;br /&gt;
+http://www.esa.int/Education/ESA_Summer_of_Code_in_Space_2011&lt;br /&gt;
+（目前可能只面向欧洲学生）  &lt;/p&gt;
+&lt;p&gt;鼓励女性参与开源社区的项目（不限于学生，任何年龄的女性都可参加）：&lt;br /&gt;
+https://live.gnome.org/OutreachProgramForWomen  &lt;/p&gt;</summary><category term="Code"></category></entry></feed>

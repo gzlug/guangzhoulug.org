@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>GZLug</title><link href="http://gzlug.org/" rel="alternate"></link><link href="http://gzlug.org/feeds/announcement.atom.xml" rel="self"></link><id>http://gzlug.org/</id><updated>2014-10-25T00:00:00+08:00</updated><entry><title>Ubuntu/Ubuntu Kylin 14.10 Release Party</title><link href="http://gzlug.org/ubuntuubuntu-kylin-1410-release-party.html" rel="alternate"></link><updated>2014-10-25T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2014-10-25:ubuntuubuntu-kylin-1410-release-party.html</id><summary type="html">&lt;p&gt;Hi all,&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>GZLug</title><link href="http://gzlug.org/" rel="alternate"></link><link href="http://gzlug.org/feeds/announcement.atom.xml" rel="self"></link><id>http://gzlug.org/</id><updated>2015-05-16T00:00:00+08:00</updated><entry><title>Hacking Saturday 2012.5.19 At Beta Cafe</title><link href="http://gzlug.org/2015%205%20Hacking%20Saturday.html" rel="alternate"></link><updated>2015-05-16T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2015-05-16:2015 5 Hacking Saturday.html</id><summary type="html">&lt;p&gt;Hi all：&lt;br /&gt;
+GZLUG第二次Hacking Saturday将在本周六下午进行，地点还是老地方Beta Cafe。  &lt;/p&gt;
+&lt;p&gt;地点：BetaCafe（寻路指南：http://wiki.gzlug.org/BetaCafe）&lt;br /&gt;
+时间：星期六 （5月19号） 下午 13：30 &lt;br /&gt;
+形式：无需报名，自带分享主题、自由交流（有内容要分享的朋友可以回复本贴，做下预告哈;大家也可以带上自己的电子玩具们，各种geek玩意都可以来分享！）&lt;br /&gt;
+费用：活动本身不需缴费，到场的吃喝消费各人自己承担。  &lt;/p&gt;
+&lt;p&gt;欢迎Linux爱好者和对Linux有兴趣的朋友参加，有关于Linux的问题需要帮助的，可以带上你的笔记本。  &lt;/p&gt;</summary><category term="HackingSaturday"></category><category term="Party"></category></entry><entry><title>Ubuntu/Ubuntu Kylin 14.10 Release Party</title><link href="http://gzlug.org/ubuntuubuntu-kylin-1410-release-party.html" rel="alternate"></link><updated>2014-10-25T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2014-10-25:ubuntuubuntu-kylin-1410-release-party.html</id><summary type="html">&lt;p&gt;Hi all,&lt;br /&gt;
 十一月份的活动来了 :)  &lt;/p&gt;
 &lt;p&gt;11 月 1 号下午，Ubuntu 14.10 Release Party 在中大大学城校区进行，本次活动除了有丰富的礼品，还有近距离接触围观超级计算机的机会~  &lt;/p&gt;
 &lt;p&gt;因为本次活动内容包括组织参观超算中心，所以参加需要报名，详细情况和报名请参照：&lt;br /&gt;
@@ -130,4 +136,173 @@ http://www.huodongxing.com/event/3252097050800  &lt;/p&gt;
 欢迎各位对 GSoC 有兴趣的朋友、Linux、开源爱好者前来参与。  &lt;/p&gt;
 &lt;p&gt;感谢中大的同学 LTaoist 帮忙为本次聚会提供场地 ^-^  &lt;/p&gt;
 &lt;p&gt;PS：本次聚会无需费用，无需报名。为了安排足够的座位，想过来参加的朋友可以回复本帖，稍微做下人数统计。  &lt;/p&gt;
-&lt;p&gt;谢谢~  &lt;/p&gt;</summary><category term="Party"></category><category term="GSoC"></category></entry><entry><title>Hello World</title><link href="http://gzlug.org/helloworld.html" rel="alternate"></link><updated>1970-01-01T00:00:00+08:00</updated><author><name>NULL</name></author><id>tag:gzlug.org,1970-01-01:helloworld.html</id><summary type="html">&lt;p&gt;Hello World&lt;/p&gt;</summary><category term="hello"></category><category term="world"></category></entry></feed>
+&lt;p&gt;谢谢~  &lt;/p&gt;</summary><category term="Party"></category><category term="GSoC"></category></entry><entry><title>GZLUG 5 月月度线下聚会</title><link href="http://gzlug.org/Party%20In%20May.html" rel="alternate"></link><updated>2013-05-22T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2013-05-22:Party In May.html</id><summary type="html">&lt;p&gt;Hi all，  &lt;/p&gt;
+&lt;p&gt;又到我们一月一度的线下聚会时间了，本次聚会将首次在华南农业大学举行，具体信息如下：  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;时间：5 月 25 号 （周六） 下午 2:00 - 5:00  &lt;/li&gt;
+&lt;li&gt;地点：华南农业大学信息学院 735 （寻路指南：https://github.com/gzlug/wiki/wiki/华南农业大学信息学院 ）  &lt;/li&gt;
+&lt;li&gt;内容：&lt;/li&gt;
+&lt;li&gt;主题演讲：&lt;/li&gt;
+&lt;li&gt;黄浩松：《Linux与虚拟化》&lt;/li&gt;
+&lt;li&gt;Johncan Lam：《基于Kibana+Logstash+ Elasticsearch构建中央日志系统》&lt;/li&gt;
+&lt;li&gt;Liutos：《如何实现垃圾一样的垃圾回收?》&lt;/li&gt;
+&lt;li&gt;自由交流&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本次活动无需报名，准时前来即可~&lt;br /&gt;
+各位如果有带笔记本的请自带排插，以防“望电源兴叹”的局面出现… ^-^  &lt;/p&gt;
+&lt;p&gt;以下是本人和华农FTS.同学的联系方式，如果找不到地可以联系下：&lt;br /&gt;
+Jactry: SmFjdHJ5OiAxODggMjY0IDAwIDY0Mwo=&lt;br /&gt;
+FTS: RlRTLjogMTg4MjUxNjYxMTcK  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;It is time for us to have our monthly meeting, and this is the first time we have it in SCAU.&lt;br /&gt;
+Here is more information:  &lt;/p&gt;
+&lt;p&gt;DATE: 2:00 - 5:00 p.m. 25th May&lt;br /&gt;
+LOCALE: 735 Room, Information College of SCNU ( Guide to traffic: https://github.com/gzlug/wiki/wiki/华南农业大学信息学院 )&lt;br /&gt;
+CONTENT:&lt;br /&gt;
+Speak:&lt;br /&gt;
+- 黄浩松：《Linux与虚拟化》
+- Johncan Lam：《基于Kibana+Logstash+ Elasticsearch构建中央日志系统》
+- Liutos：《如何实现垃圾一样的垃圾回收？》&lt;/p&gt;
+&lt;p&gt;Free talk time&lt;/p&gt;
+&lt;p&gt;CONTACT:&lt;br /&gt;
+Jactry: SmFjdHJ5OiAxODggMjY0IDAwIDY0Mwo=&lt;br /&gt;
+FTS: RlRTLjogMTg4MjUxNjYxMTcK  &lt;/p&gt;</summary><category term="Party"></category></entry><entry><title>GZLUG 2013年3月月度线下聚会</title><link href="http://gzlug.org/Party%20In%20March.html" rel="alternate"></link><updated>2013-03-22T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2013-03-22:Party In March.html</id><summary type="html">&lt;p&gt;Hi all，  &lt;/p&gt;
+&lt;p&gt;又到我们聚会神侃的时间了~  &lt;/p&gt;
+&lt;p&gt;时间：本周日，即 3 月 24 号，下午 2:00 - 5:00；&lt;br /&gt;
+地点： BetaCafe （寻路指南：http://wiki.gzlug.org/BetaCafe ）&lt;br /&gt;
+活动形式：
+  - 到场者自我介绍
+  - 自由交流
+  - 欢迎贡献话题&lt;/p&gt;
+&lt;p&gt;费用：活动本身无费用，但，咖啡厅要求到场最低消费，所以大家自己消费自己买单。（最低价格的饮料在 20 RMB 内）  &lt;/p&gt;
+&lt;p&gt;欢迎大家前来~ ;-)  &lt;/p&gt;</summary><category term="Party"></category></entry><entry><title>GZLUG 2013年1月月度线下聚会</title><link href="http://gzlug.org/Party%20In%20Jan.html" rel="alternate"></link><updated>2013-01-15T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2013-01-15:Party In Jan.html</id><summary type="html">&lt;p&gt;Hi all，&lt;/p&gt;
+&lt;p&gt;本周日下午，即1月20号，下午2点开始，GZLUG将在beta cafe进行本月的线下聚会，也是本年第一次线下聚会。  &lt;/p&gt;
+&lt;p&gt;地点： Beta cafe：海珠区新港中路397号T.I.T创意园创意西路07号别墅（&lt;a href="http://wiki.gzlug.org/BetaCafe?highlight=%28%5Cb%E8%81%9A%E4%BC%9A%E4%BA%A4%E9%80%9A%E6%8C%87%E5%BC%95%5Cb%29"&gt;寻路指南&lt;/a&gt;）  &lt;/p&gt;
+&lt;p&gt;本次聚会没有固定主题，大家可以自带话题来讨论和分享，有什么新玩意也可以拿来分享下。（没有投影设备的哦~）  &lt;/p&gt;
+&lt;p&gt;能够到来参加的朋友可以回复本帖，大概统计下人数，到时我们先到的可以拼桌霸位 XD  &lt;/p&gt;
+&lt;p&gt;PS：因为是在咖啡厅，咖啡厅那边到场需要最低消费，大家自己点自己付吧。  &lt;/p&gt;
+&lt;p&gt;谢谢~  &lt;/p&gt;</summary><category term="Party"></category></entry><entry><title>GZLUG 12月月度聚会</title><link href="http://gzlug.org/Party%20In%20Dec.html" rel="alternate"></link><updated>2012-12-13T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2012-12-13:Party In Dec.html</id><summary type="html">&lt;p&gt;Hi all,  &lt;/p&gt;
+&lt;p&gt;GZLUG将于本月15号（本周六）在中山大学 大学城校区举行本月的月度聚会。&lt;br /&gt;
+以下是详细信息：&lt;br /&gt;
+- 时间：12年12月15号 周六 下午 2:00-5:00
+- 地点：中山大学 大学城校区 教学楼 （具体课室稍后更新，请留意列表）
+- 寻路指南：http://wiki.gzlug.org/中山大学东校区教学区
+-  内容：
+   - 演讲主题：
+      1. 黄浩松:《Node.js-吊丝的逆袭》
+      2. Liutos（刘滔）:《Common Lisp坑爹简介》
+      3. FTS. : FP IN THE SHELL
+    - 自由讨论&lt;/p&gt;
+&lt;p&gt;因为具体的教室还没有确定，所以请各位留意列表或者微博 @广州Linux用户组 ，稍后更新。  &lt;/p&gt;
+&lt;p&gt;还有就是请各位带笔记本的朋友自带排插共享，或者有排插的朋友也可以带来共享下。&lt;br /&gt;
+欢迎各位朋友参加，本次活动无需报名，准时前来即可。  &lt;/p&gt;</summary><category term="Party"></category></entry><entry><title>10月月度线下聚会</title><link href="http://gzlug.org/Party%20In%20Oct.html" rel="alternate"></link><updated>2012-10-26T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2012-10-26:Party In Oct.html</id><summary type="html">&lt;p&gt;Hi all,
+广州Linux用户组10月的月度聚会在10月27号下午进行，以下是详细信息，欢迎所有Linux爱好者或者对Linux感兴趣的朋友参加：  &lt;/p&gt;
+&lt;p&gt;时间：10月27号 周六下午 1点到5点&lt;br /&gt;
+地点：广东工业大学 大学城校区 维生数工作室（寻路指南）&lt;br /&gt;
+主题：Raspberry Pi、ARM PC、Arduino  &lt;/p&gt;
+&lt;p&gt;本次活动无需报名，按时前来即可，欢迎带上话题前来分享 ;-)  &lt;/p&gt;</summary><category term="Party"></category></entry><entry><title>2012 自由软件日活动</title><link href="http://gzlug.org/2012%20SFD.html" rel="alternate"></link><updated>2012-09-12T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2012-09-12:2012 SFD.html</id><summary type="html">&lt;p&gt;Hi all，&lt;br /&gt;
+在本月15号（周六）我们将迎来属于我们自由软件的节日——Software Freedom Day！广州Linux用户组将在本周六下午举行线下活动欢庆这一个这一节日，并希望以此分享、推广自由软件及其理念，当然届时还会有小礼品送出~  &lt;/p&gt;
+&lt;p&gt;活动具体信息如下：  &lt;/p&gt;
+&lt;p&gt;时间：9月15号 周六 下午 2：30-5：00&lt;br /&gt;
+地点：广州天河 华南师范大学 计算机学院 102学术会议厅（寻路指南：华师计算机学院102大会议室）&lt;br /&gt;
+活动内容：&lt;br /&gt;
+-  主题演讲：&lt;br /&gt;
+    - Joseph Pan：开源禅史——从ARPANNET宗，UNIX宗到RMS的精神革命
+    - karazu kuro：我们仍未知道那天所玩发行版的内涵 —— 小谈主流linux各发行版的区别
+    - Qian Hong： 做一名开源社区的扫地僧(上)
+- 自由讨论环节&lt;/p&gt;
+&lt;p&gt;欢迎自由软件爱好者、Linux用户及其他对自由软件、Linux有兴趣或者想了解的朋友前来参加,也许你将从此为自由软件着迷~  &lt;/p&gt;
+&lt;p&gt;如果你有技术上的问题想寻求帮助或者想需要找人帮忙安装Linux，欢迎带上你的机器和优盘，到时可以搭讪到场的“大牛”帮忙解决 ;-)  &lt;/p&gt;
+&lt;p&gt;当然，本次活动仍然是开放的，无需费用、无需报名，准时前来即可！  &lt;/p&gt;</summary><category term="SFD"></category></entry><entry><title>Hacking Saturday 2012.6.16 At 广东工业大学（大学城）</title><link href="http://gzlug.org/2012%206%20Hacking%20Saturday.html" rel="alternate"></link><updated>2012-06-14T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2012-06-14:2012 6 Hacking Saturday.html</id><summary type="html">&lt;p&gt;&lt;img alt="gzut" src="/images/2012/gzut.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;Hi all：  &lt;/p&gt;
+&lt;p&gt;本周六将进行GZLUG的第三次Hacking Saturday，本次是GZLUG活动首次来到广工！  &lt;/p&gt;
+&lt;p&gt;地点：广东工业大学 大学城校区 维生数工作室 （寻路指南：http://wiki.gzlug.org/广工维生数工作室）&lt;br /&gt;
+时间：星期六（6月16号） 下午 2：30&lt;br /&gt;
+形式：无需报名，小主题分享，自由交流&lt;br /&gt;
+费用：无费用  &lt;/p&gt;
+&lt;p&gt;已经提出的分享主题：&lt;br /&gt;
+Tiger Soldier：Gnome Shell扩展开发方向&lt;br /&gt;
+Ma Xiaojun：关于电子方面的（8051、Arduino）  &lt;/p&gt;
+&lt;p&gt;欢迎Linux用户和对Linux有兴趣的朋友前来，谢谢。  &lt;/p&gt;</summary><category term="HackingSaturday"></category></entry><entry><title>GZLUG Fedora 17 主题活动</title><link href="http://gzlug.org/2012%20fedora%20release%20party.html" rel="alternate"></link><updated>2012-05-29T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2012-05-29:2012 fedora release party.html</id><summary type="html">&lt;p&gt;&lt;img alt="fedora17" src="/images/2012/fedora17.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Fedora 17 以于 5 月 29 日正式发布，广州将会有一场小型的 Fedora 17 主题活动。  &lt;/p&gt;
+&lt;p&gt;地点：中山大学 南校区 第一教学楼 1307 课室 寻路指南：http://wiki.gzlug.org/中山大学南校区第一教学楼&lt;br /&gt;
+时间：6 月 3 日下午 2 点&lt;br /&gt;
+活动内容：待定&lt;br /&gt;
+本次活动无需报名，有主题想分享可回复本贴，或者发送邮件到（jactry92#gmail.com）  &lt;/p&gt;
+&lt;p&gt;届时有自由讨论环节，欢迎新手和对Linux、Fedora有兴趣的朋友参加;如果需要“高手”帮忙安装Linux，请带上您的机器，您将可能获得无私的帮助 ;-)  &lt;/p&gt;
+&lt;p&gt;欢迎对Linux有兴趣的其他操作系统用户参加，或许您将从此为Linux着迷 :-)  &lt;/p&gt;
+&lt;p&gt;谢谢！  &lt;/p&gt;</summary><category term="Fedora"></category><category term="Party"></category></entry><entry><title>GZLUG 第一次 Hacking Saturday！</title><link href="http://gzlug.org/First%20Hacking%20Saturday.html" rel="alternate"></link><updated>2012-05-11T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2012-05-11:First Hacking Saturday.html</id><summary type="html">&lt;p&gt;Hi all：&lt;br /&gt;
+GZLUG将在这个周六（12号）即每天下午举行GZLUG的第一次 Hacking Saturday！  &lt;/p&gt;
+&lt;p&gt;还有来着台湾的朋友 雨苍 一起进行交流。雨苍也是SHLUG的管理员，是他把“Hacking Thursday”这种
+形式带到大陆来的，本次聚会形式的原型也是来自于“Hacking Thursday”。  &lt;/p&gt;
+&lt;p&gt;地点：BetaCafe（寻路指南：http://wiki.gzlug.org/BetaCafe）&lt;br /&gt;
+时间：星期六 （5月12号） 下午 13：30&lt;br /&gt;
+形式：自带分享主题、自由交流（有内容要分享的朋友可以回复本贴，做下预告哈;大家也可以带上自己的电子玩具们，各种geek玩意都可以来分享！）&lt;br /&gt;
+费用：活动本身不需缴费，到场的吃喝消费各人自己承担。  &lt;/p&gt;
+&lt;p&gt;本活动无需报名，来者即可，自带分享内容更佳！  &lt;/p&gt;
+&lt;p&gt;关于Hacking Saturday：&lt;br /&gt;
+其实无论是Hacking Thursday还是Hacking Saturady，都旨在为大家提供更多的自由交流机会。&lt;br /&gt;
+关于举办的时间欢迎大家积极讨论，你可以说认为在周四举行好，为什么，在周六好，又为什么。&lt;br /&gt;
+或者在其他时间，又为什么，也可以具体到时间段，是在晚上还是下午。&lt;br /&gt;
+以后我们可以把这种形式固定下来。  &lt;/p&gt;
+&lt;p&gt;附：&lt;br /&gt;
+Hacking Thursday： http://www.hackingthursday.org/&lt;br /&gt;
+Hacking Thursday Night in SHLUG：http://www.shlug.org/?page_id=523&lt;br /&gt;
+Hacking Thursday Night活动介绍：http://ghostunix.org/blog/?p=393  &lt;/p&gt;</summary><category term="HackingSaturday"></category><category term="Party"></category></entry><entry><title>Ubuntu 12.04 LTS Precise Release Party 活动小结</title><link href="http://gzlug.org/Ubuntu%2012.04%20LTS%20Release%20Party%20Summary.html" rel="alternate"></link><updated>2012-05-06T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2012-05-06:Ubuntu 12.04 LTS Release Party Summary.html</id><summary type="html">&lt;p&gt;Ubuntu 12.04 LTS Precise Release Party 昨天下午在中大南校区举行。本次Party算是有点小波折，以为本来预定的是在东校区的活动室举行的，但在活动的前两天，才收到申请被拒绝的消息，所以临时转移了阵地。这也说明活动资源太依赖学校的一个不好的地方。在这里要特别谢谢永彪同学一直在为活动室的事情奔波。  &lt;/p&gt;
+&lt;p&gt;活动开始前全场做了个自我介绍作为暖场，一个华师的Ubuntu超级粉丝同学还组团前来！特别让人意外的，现场还有一个高二的、来自华附的“小朋友”！  &lt;/p&gt;
+&lt;p&gt;第一个演讲主题是由来自GDUT的“伍先生”（人家ID就叫“伍先生”，囧）带来的《Ubuntu 12.04新特性》，讲得比较细节，罗列了Unity各种好。&lt;br /&gt;
+&lt;img alt="ubuntu12.04.0" src="/images/2012/ubuntu12.04.0.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;第二个演讲主题是从珠海赶来的Robin Lee带来的碉堡主题《知识共产主义的理想与物质资本主义的现实》！主要简述了他对于自由软件运动、开源运动的思考，还有商业公司对开源社区的贡献。&lt;br /&gt;
+&lt;img alt="ubuntu12.04.1" src="/images/2012/ubuntu12.04.1.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;第三个演讲主题是由从香港匆匆赶来的Ma Xiaojun同学带来的《Platform Agnostic Computing Education》，他讲述了一套他总结的与平台无关的计算机教育方案。&lt;br /&gt;
+&lt;img alt="ubuntu12.04.2" src="/images/2012/ubuntu12.04.2.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;中间由进行了个抽奖环节，Robin Lee现场用Perl写了个抽奖程序，现场抽奖送出了Ubuntu杯具和贴纸。  &lt;/p&gt;
+&lt;p&gt;然后是Ma Xiaojun同学主持的workshop环节。Qian Hong现场演示了wine的debug和wine windows版的chrome，然后用np-ActiveX这个插件登陆ICBC！&lt;br /&gt;
+Robin演示了WPS4Linux社区，讲了一个报bug的注意事项。&lt;br /&gt;
+&lt;img alt="ubuntu12.04.3" src="/imags/2012/ubuntu12.04.3.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;由于现场是教室，环境比较恶劣，对于自由讨论有阻碍。但还是有一些小的讨论小组。&lt;br /&gt;
+&lt;img alt="ubuntu12.04.4" src="/imags/2012/ubuntu12.04.4.jpg" /&gt;&lt;br /&gt;
+&lt;img alt="ubuntu12.04.5" src="/imags/2012/ubuntu12.04.5.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;活动结束后，一行16人一起去吃饭、腐败，这也是腐败率比较高的一次。在饭店霸占了两张桌子。  &lt;/p&gt;
+&lt;p&gt;一群玩技术的来饭店当然还是来玩技术……大伙纷纷拿出各种设备，Kindle、Kindle Fire、小米什么的，从香港来的Aenon Sun同学还演示了下Linux Deepin。&lt;br /&gt;
+&lt;img alt="ubuntu12.04.6" src="/imags/2012/ubuntu12.04.6.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;我的龙芯笔记本也被围观了下：&lt;br /&gt;
+&lt;img alt="ubuntu12.04.7" src="/imags/2012/ubuntu12.04.7.jpg" /&gt;  &lt;/p&gt;
+&lt;p&gt;大伙一直玩到8点左右，然后陆续散去。&lt;br /&gt;
+&lt;img alt="ubuntu12.04.8" src="/imags/2012/ubuntu12.04.8.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;PS：本次活动有3位女生到场。  &lt;/p&gt;
+&lt;p&gt;liangsuilong的活动小结：http://www.liangsuilong.info/?p=1531  &lt;/p&gt;
+&lt;p&gt;Slide下载：  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;《Ubuntu 12.04新特性》&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《知识共产主义的理想与物质资本主义的现实》&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《Platform Agnostic Computing Education》&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;workshop&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Ubuntu"></category><category term="Party"></category></entry><entry><title>Ubuntu 12.04 LTS Precise Release Party</title><link href="http://gzlug.org/Ubuntu%2012.04%20LTS%20Precise%20Release%20Party.html" rel="alternate"></link><updated>2012-05-02T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2012-05-02:Ubuntu 12.04 LTS Precise Release Party.html</id><summary type="html">&lt;p&gt;Hello everybody：&lt;br /&gt;
+  Ubuntu 12.04 LTS 已于4月26号正式发布，广州Linux用户组将于5月5号（周六）举行Ubuntu 12.04 LTS Precise Release Party（广州站），&lt;br /&gt;
+届时将有小礼品抽奖、分发，欢迎Linux爱好者参加！  &lt;/p&gt;
+&lt;p&gt;活动时间：5月5号 下午2：00～5：00 星期六&lt;br /&gt;
+活动地点：中山大学 东校区（大学城） 新学生活动中心 文化沙龙 活动室&lt;br /&gt;
+由于不可抗拒的原因！地点修改为：中山大学 南校区 第一教学楼 1308  &lt;br /&gt;
+寻路指南：http://wiki.gzlug.org/中山大学南校区第一教学楼?&lt;br /&gt;
+活动内容：&lt;br /&gt;
+ - 主题演讲：
+    - 伍先生：Ubuntu 12.04 新特性
+    - Ma Xiaojun：Platform Agnostic Computing Education
+    - Robin Lee：知识共产主义的理想与物质资本主义的现实
+Workshop：由Ma Xiaojun主持&lt;br /&gt;
+抽奖环节：现场抽奖送出Ubuntu小礼物  &lt;/p&gt;
+&lt;p&gt;最后大家可以自由交流，需要安装Ubuntu 12.04的朋友可以带上您的机器，现场会有经验丰富的Linux爱好者可以帮助您，所以欢迎非Linux用户、对Linux有兴趣的朋友前来，或许您将从此为Linux着迷 :-)&lt;br /&gt;
+另外，现场将有Ubuntu 12.04全系列的ISO文件的网络分发;如果有优盘的朋友，也可以制作成启动盘到现场帮助其他需要安装的朋友。  &lt;/p&gt;
+&lt;p&gt;PS:GZLUG的线下活动都是开放的，无须报名，来者即可！  &lt;/p&gt;
+&lt;p&gt;谢谢。  &lt;/p&gt;
+&lt;p&gt;传说中的小礼物！：  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="ubuntu12.04" src="/images/2012/ubuntu12.04.jpeg" /&gt;&lt;/p&gt;</summary><category term="Ubuntu"></category><category term="Party"></category></entry><entry><title>Hello World</title><link href="http://gzlug.org/helloworld.html" rel="alternate"></link><updated>1970-01-01T00:00:00+08:00</updated><author><name>NULL</name></author><id>tag:gzlug.org,1970-01-01:helloworld.html</id><summary type="html">&lt;p&gt;Hello World&lt;/p&gt;</summary><category term="hello"></category><category term="world"></category></entry></feed>
