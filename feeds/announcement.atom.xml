@@ -2,5 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>GZLug</title><link href="http://gzlug.org/" rel="alternate"></link><link href="http://gzlug.org/feeds/announcement.atom.xml" rel="self"></link><id>http://gzlug.org/</id><updated>2014-10-25T00:00:00+08:00</updated><entry><title>Ubuntu/Ubuntu Kylin 14.10 Release Party</title><link href="http://gzlug.org/ubuntuubuntu-kylin-1410-release-party.html" rel="alternate"></link><updated>2014-10-25T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2014-10-25:ubuntuubuntu-kylin-1410-release-party.html</id><summary type="html">&lt;p&gt;Hi all,&lt;br /&gt;
 十一月份的活动来了 :)  &lt;/p&gt;
 &lt;p&gt;11 月 1 号下午，Ubuntu 14.10 Release Party 在中大大学城校区进行，本次活动除了有丰富的礼品，还有近距离接触围观超级计算机的机会~  &lt;/p&gt;
-&lt;p&gt;因为本次活动内容包括组织参观超算中心，所以参加需要报名，详细情况和报名请参照：http://www.huodongxing.com/event/3252097050800  &lt;/p&gt;
-&lt;p&gt;感谢 Ubuntu Kylin 的支持和中大笃行工作室的组织。  &lt;/p&gt;</summary><category term="ubuntu"></category><category term="party"></category></entry></feed>
+&lt;p&gt;因为本次活动内容包括组织参观超算中心，所以参加需要报名，详细情况和报名请参照：&lt;br /&gt;
+http://www.huodongxing.com/event/3252097050800  &lt;/p&gt;
+&lt;p&gt;感谢 Ubuntu Kylin 的支持和中大笃行工作室的组织。  &lt;/p&gt;</summary><category term="Ubuntu"></category><category term="Party"></category></entry><entry><title>软件自由日活动</title><link href="http://gzlug.org/2014%20SFD.html" rel="alternate"></link><updated>2014-09-17T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2014-09-17:2014 SFD.html</id><summary type="html">&lt;p&gt;&lt;img alt="SFD" src="/imags/2014/sfd.png" /&gt;  &lt;/p&gt;
+&lt;p&gt;Hi all，&lt;br /&gt;
+9 月 20 号，Software Freedom Day 是 FOSS 爱好者们的又一节日，本着分享、交流、推广 FOSS 的目的，广州 Linux 用户组将于本周六下午，在中山大学南校区举行“软件自由日”活动，与大家一同庆祝、分享这个节日。  &lt;/p&gt;
+&lt;p&gt;以下是本次活动的详细情况：  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;时间： 9 月 20 号，周六，下午 2:00 - 5:00&lt;/li&gt;
+&lt;li&gt;地点：中山大学 南校区 逸夫楼 303 (&lt;a href="https://github.com/gzlug/wiki/wiki/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%8D%97%E6%A0%A1%E5%8C%BA%E9%80%B8%E5%A4%AB%E6%A5%BC"&gt;寻路指南&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;主题演讲：&lt;/li&gt;
+&lt;li&gt;Joey Chan：《全新的体验——Ubuntu for phone》&lt;/li&gt;
+&lt;li&gt;LTaoist：《一个十八年的系统 - 华人圈子中基于 firebird 的 bss 系统分析》&lt;/li&gt;
+&lt;li&gt;Zoom Quiet：《但行“好”事，莫问前程》&lt;/li&gt;
+&lt;li&gt;自由交流、讨论&lt;/li&gt;
+&lt;li&gt;抽奖，活动中会通过“&lt;a href="https://github.com/gzlug/Lottery"&gt;GZLUG 专用抽奖机&lt;/a&gt; ”，抽出幸运参与者赠送礼品（每位前来的朋友到场时请从志愿者处领取抽奖编号）&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;会后腐败，活动结束后可自愿参加 AA 制聚餐，到时到组织者处报名&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本次软件自由日活动无需报名，准时前来参与即可&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;此外，此次活动得到国内诸多社区、公司的大力支持，与会者均有机会获得小礼品，&lt;br /&gt;
+不过数量我不保证，先到先得 ;)&lt;br /&gt;
+在此感谢 CSDN、Deepin、GitCafe、Mozilla 的支持，以及中大笃行工作室同学们的组织筹办！  &lt;/p&gt;
+&lt;p&gt;欢迎各位 Linux 爱好者、FOSS 爱好者，以及对 Linux、FOSS 感兴趣的朋友前来参加！  &lt;/p&gt;
+&lt;p&gt;谢谢。  &lt;/p&gt;</summary><category term="SFD"></category><category term="Party"></category></entry><entry><title>Hello World</title><link href="http://gzlug.org/helloworld.html" rel="alternate"></link><updated>1970-01-01T00:00:00+08:00</updated><author><name>NULL</name></author><id>tag:gzlug.org,1970-01-01:helloworld.html</id><summary type="html">&lt;p&gt;Hello World&lt;/p&gt;</summary><category term="hello"></category><category term="world"></category></entry></feed>
