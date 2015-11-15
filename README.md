@@ -11,6 +11,8 @@ gzlug.org
 - develop_server.sh：开发脚本
 - Makefile：Make 构建脚本
 
+Master 分支为Source，gp-pages 分支为生成的静态文件。
+
 ### 如何使用
 
 请参照 [Pelican 快速入门][p] 安装 Pelican。
