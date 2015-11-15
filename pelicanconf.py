@@ -7,6 +7,7 @@ SITENAME = u'GZLug'
 SITEURL = ''
 BANNER_SUBTITLE = '广州Linux用户组'
 
+
 PATH = 'content'
 
 TIMEZONE = u'Asia/Shanghai'
@@ -37,3 +38,5 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 THEME = 'pelican-themes/pelican-bootstrap3'
+DISPLAY_TAGS_INLINE = True
+DISPLAY_CATEGORIES_ON_MENU = False

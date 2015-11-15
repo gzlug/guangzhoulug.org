@@ -1,7 +1,7 @@
 gzlug.org
 ------------
 
-*这份ReadMe fork from [xuxiaodong/linuxtoy.org](https://github.com/xuxiaodong/linuxtoy.org/blob/master/README.md)*
+*这份ReadMe fork from [xuxiaodong/linuxtoy.org](https://github.com/xuxiaodong/linuxtoy.org/blob/master/README.md) *
 
 这是 [GZLug][l] 网站的源代码，原来采用 WordPress，现迁移到 Pelican，其中包括：
 
