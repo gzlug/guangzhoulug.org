@@ -10,6 +10,7 @@ gzlug.org
 - pelicanconf.py：Pelican 配置文件
 - develop_server.sh：开发脚本
 - Makefile：Make 构建脚本
+- requirements.txt: 依赖的Python包
 
 Master 分支为Source，gp-pages 分支为生成的静态文件。
 
