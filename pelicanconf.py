@@ -29,7 +29,7 @@ LINKS = (('Site Source', 'https://github.com/fangpeishi/gzlug.org/'),
 # Social widget
 SOCIAL = (('GitHub','https://github.com/gzlug'),
 	  ('Twitter','https://twitter.com/GuangzhouLUG'),
-          ('GoogleGroup', 'https://groups.google.com/forum/#!forum/gzlug'),
+          ('GoogleGroup', 'https://groups.google.com/group/gzlug'),
           ('Weibo', 'http://weibo.com/gzlug'),
           ('Douban', 'http://www.douban.com/people/gzlug/'))
 
