@@ -22,7 +22,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Site Source', 'https://github.com/fangpeishi/gzlug.org/'),
+LINKS = (('Site Source', 'https://github.com/gzlug/gzlug.org/'),
          ('Slides', 'https://github.com/gzlug/slides'),
 	 ('Techparty', 'http://techparty.org/'))
 
