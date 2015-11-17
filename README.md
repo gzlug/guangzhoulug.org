@@ -1,9 +1,7 @@
 gzlug.org
 ------------
 
-*这份ReadMe fork from [xuxiaodong/linuxtoy.org](https://github.com/xuxiaodong/linuxtoy.org/blob/master/README.md) *
-
-这是 [GZLug][l] 网站的源代码，原来采用 WordPress，现迁移到 Pelican，其中包括：
+这是 [广州 GNU/Linux 用户组][l] 网站的源代码，原来采用 WordPress，现迁移到 Pelican，其中包括：
 
 - content：所有文章，为 Markdown 格式
 - pelican-themes：Pelican 主题
@@ -70,9 +68,11 @@ nmap _m :call MarkdownHeader()<cr>
 
 ### 欢迎贡献
 
-广州Linux用户组是非商业、非盈利的地方互助组织，gzlug.org 主要用于发布线下活动通知以及知识分享，欢迎大家提PR，分享文章或发起聚会，谢谢。
+广州 GNU/Linux 用户组是非商业、非盈利的地方互助组织，gzlug.org 主要用于发布线下活动通知以及知识分享，欢迎大家提PR，分享文章或发起聚会，谢谢。
 
 ### 版权许可
+
+这份 ReadMe fork 自 [xuxiaodong/linuxtoy.org](https://github.com/xuxiaodong/linuxtoy.org/blob/master/README.md)
 
 本网站文字及图片内容遵循“[署名-非商业性使用-相同方式共享 2.5 中国大陆][c]”的创作共用协议。
 
