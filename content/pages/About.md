@@ -1,4 +1,4 @@
-Title: About
+Title: 关于我们
 
 ![gzlug](/images/others/flow.jpg)
 

@@ -3,9 +3,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'gzlug'
-SITENAME = u'GZLug'
+SITENAME = u'广州 GNU/Linux 用户组'
 SITEURL = ''
-BANNER_SUBTITLE = '广州Linux用户组'
+BANNER_SUBTITLE = '广州 GNU/Linux 用户组'
 
 
 PATH = 'content'
@@ -24,13 +24,15 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Site Source', 'https://github.com/gzlug/gzlug.org/'),
          ('Slides', 'https://github.com/gzlug/slides'),
+         ('北京 GUN/Linux 用户组', 'http://beijinglug.org/'),
+         ('上海 Linux 用户组', 'http://www.shlug.org/'),
 	 ('Techparty', 'http://techparty.org/'))
 
 # Social widget
 SOCIAL = (('GitHub','https://github.com/gzlug'),
 	  ('Twitter','https://twitter.com/GuangzhouLUG'),
-          ('GoogleGroup', 'https://groups.google.com/group/gzlug'),
           ('Weibo', 'http://weibo.com/gzlug'),
+          ('Google Group', 'https://groups.google.com/group/gzlug'),
           ('Douban', 'http://www.douban.com/people/gzlug/'))
 
 DEFAULT_PAGINATION = 10
