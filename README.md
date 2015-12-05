@@ -79,3 +79,5 @@ nmap _m :call MarkdownHeader()<cr>
 [l]: http://gzlug.org
 [p]: http://docs.getpelican.com/en/3.5.0/quickstart.html
 [c]: http://creativecommons.org/licenses/by-nc-sa/2.5/cn/
+
+* 这份ReadMe fork from [xuxiaodong/linuxtoy.org](https://github.com/xuxiaodong/linuxtoy.org/blob/master/README.md) *
