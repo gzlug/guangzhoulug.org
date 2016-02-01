@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>广州 GNU/Linux 用户组</title><link href="http://gzlug.org/" rel="alternate"></link><link href="http://gzlug.org/feeds/share.atom.xml" rel="self"></link><id>http://gzlug.org/</id><updated>2013-05-31T00:00:00+08:00</updated><entry><title>R语言以及今年的GSoC</title><link href="http://gzlug.org/R%20Lang%20and%20GSoC.html" rel="alternate"></link><updated>2013-05-31T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2013-05-31:R Lang and GSoC.html</id><summary type="html">&lt;p&gt;作者：Qiang Kou&lt;br /&gt;
+原帖地址：https://groups.google.com/group/gzlug/browse_thread/thread/94898bb15b8ca2f?hl=zh-CN  &lt;/p&gt;
+&lt;p&gt;答应Qian Hong要跟大家分享一下GSoC的事情，7月就滚去北美读PhD了，六月聚会也不确定是否有时间，所以就发邮件给大家了。  &lt;/p&gt;
+&lt;p&gt;关于什么是R语言，见COS上的经典文章http://cos.name/2012/05/r-you-ready/  &lt;/p&gt;
+&lt;p&gt;由于data mining开始火，R也终于熬到了上位的时候。  &lt;/p&gt;
+&lt;p&gt;先聊聊圈子里的人，由于R依靠package构建整个生态圈的思路，圈子里的人一般是分三类的，R core team、contributer和user。  &lt;/p&gt;
+&lt;p&gt;user就是绝大部分用户咯，contributer就是在CRAN、bioconductor、Rmetrics等等地方提交package的兄弟们，R core team就是R的核心团队，人数不多，但负责维护R最底层和最核心的部分，负责升版本号的就是他们啦。  &lt;/p&gt;
+&lt;p&gt;既然要装B，自然就不能只停留在user这个水平，至少要开始写package，要开始contributer这条不归路。我只说一下我的思路，仅供非科班出身的朋友们参考。  &lt;/p&gt;
+&lt;p&gt;第一步，写package。其实很简单，你把自己平时用的最多的代码打包一下就OK了，当然最推荐的是R或C/C++，打包最容易，使用也最方便；  &lt;/p&gt;
+&lt;p&gt;第二步，提交package。CRAN上提交相对宽松一些，只要R CMD check这一步没问题，挂出来问题都不大。这也就是造成了CRAN上3000多个package水平参差不齐。bioconductor的审核要严格很多，package质量也就高很多。开发的过程中，推荐用github，R的devtools和Rstudio，至少现在写package比两年前要方便太多了；  &lt;/p&gt;
+&lt;p&gt;第三步，邮件列表，这个和贴吧灌水没什么区别；  &lt;/p&gt;
+&lt;p&gt;第四步，就是GSoC，从google code-in、google summer of code到google code jam，google在不遗余力地忽悠大家走上写代码的不归路。由于非科班出身和年龄问题，和我有关也就只有GSoC了。今年一共有177个开源组织参加，GCC、LLVM、KDE这些大型组织自然是gsoc里的大头。R project是gsoc最早参加的组织之一，今年起Bioconductor也正式加入。而且从google分配的slot来看，R project和Bioconductor已经接近GCC之类了。  &lt;/p&gt;
+&lt;p&gt;个人觉得，这是外围的业余开发者加入R社区最好的途径了。门槛不高，暑假里几乎可以把自己看作一个全职的开发人员了，而且有5000刀拿。R的contributer以大学教授和业界技术人员为主，在他们看来，三个月5000刀似乎有点太少了，所以他们不会和我争，所以今年我才侥幸拿到一个slot。  &lt;/p&gt;
+&lt;p&gt;下面两个链接分别是R project和bioconductor今年的项目。  &lt;/p&gt;
+&lt;p&gt;http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2013  &lt;/p&gt;
+&lt;p&gt;http://bioconductor.org/developers/gsoc2013/  &lt;/p&gt;
+&lt;p&gt;R的偏后台，其中一个optimization的项目把我录了。bioconductor的shiny是我一直很喜欢的一个web前端，和mentor聊了聊，感觉自己的确没有前端经验，也就算了。  &lt;/p&gt;
+&lt;p&gt;我不是科班出身，计算机结构、操作系统之类的课程旁听过，作为一个没学会汇编，对底层的内存控制没什么感觉的人，混进R core team，我连想都没想过。  &lt;/p&gt;
+&lt;p&gt;走到这儿，其实作为一个contributer应该有的技能也就都具备了，以后还想继续混，也要看各位能不能在自己的领域里，用R解决些问题了。  &lt;/p&gt;
+&lt;p&gt;先聊这么多，六月聚会有机会再和各位聊。  &lt;/p&gt;</summary><category term="R"></category><category term="GSoC"></category></entry><entry><title>Google Code-in 2012 阶段简报，首次有来自中国的学生完成了Google Code-in 任务</title><link href="http://gzlug.org/google%20code%20in%202012.html" rel="alternate"></link><updated>2012-12-22T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2012-12-22:google code in 2012.html</id><summary type="html">&lt;p&gt;原文由Qian Hong发至邮件列表：https://groups.google.com/group/gzlug/browse_thread/thread/823a22af63bdd4e4?hl=zh-CN  &lt;/p&gt;
+&lt;p&gt;Google code-in 是鼓励中学生参与开源项目的一项活动，面向全球17周岁以下的学生。参与并完成任务的学生都可以获得纪念品和奖品，但不是奖金。特别优秀的参与学生还可以获得赞助去Google山景城总部参观的全程费用，包括一名陪同监护人的费用。  &lt;/p&gt;
+&lt;p&gt;Google Open Source官方博客发布了今年Google Code-in活动的阶段简报。&lt;br /&gt;
+原文链接： http://google-opensource.blogspot.com/2012/12/google-code-in-2012-halfway-home_21.html  &lt;/p&gt;
+&lt;p&gt;全球共有超过1900名来自81个国家的学生注册了今年的活动。  &lt;/p&gt;
+&lt;p&gt;其中有两个国家是第一次有学生参加：&lt;br /&gt;
+United Arab Emirates 和 Zimbabwe（阿拉伯联合大公国 和 津巴布韦）&lt;/p&gt;
+&lt;p&gt;参与学生人数最多的国家依次为：&lt;br /&gt;
+- United States    877&lt;br /&gt;
+- India                 208
+- Canada               92
+- Bulgaria              81
+- United Kingdom 72
+- Romania              68
+- Australia              35
+- Poland                 29
+- South Korea        29
+- Spain                   29&lt;/p&gt;
+&lt;p&gt;其中7个国家是今年第一次有学生完成了Google Code-in的任务：&lt;br /&gt;
+China, Kenya (目前为止有6位学生了), Kuwait, Peru, Trinidad and Tobago, and Uruguay  &lt;/p&gt;
+&lt;p&gt;有5个国家的参与学生人数今年比去年翻了一番：&lt;br /&gt;
+Argentina, Australia, Ireland, Singapore, and South Korea.  &lt;/p&gt;
+&lt;p&gt;目前Google Code-in活动仍然接受学生报名，2013年1月13日之前都可以注册并认领任务，但所有任务都必须在 January&lt;br /&gt;
+14, 2012 at 17:00 UTC 之前完成。  &lt;/p&gt;
+&lt;p&gt;更多活动相关信息参见官方faq：&lt;br /&gt;
+http://www.google-melange.com/gci/document/show/gci_program/google/gci2012/help_page  &lt;/p&gt;
+&lt;p&gt;希望大家帮忙转发，多转发到中学教师集中的社区论坛，以及向身边的中学生朋友/中学生教师朋友介绍这类活动。  &lt;/p&gt;
+&lt;p&gt;同类活动中适合中学生的还有Google青少年科技创新大赛：&lt;br /&gt;
+http://www.google.com/intl/en/events/sciencefair/index.html  &lt;/p&gt;
+&lt;p&gt;适合大学生参加的则有：&lt;br /&gt;
+Google Summer of Code： https://code.google.com/intl/zh-CN/soc/&lt;br /&gt;
+欧洲航天局资助的 ESA summer of code：&lt;br /&gt;
+http://www.esa.int/Education/ESA_Summer_of_Code_in_Space_2011&lt;br /&gt;
+（目前可能只面向欧洲学生）  &lt;/p&gt;
+&lt;p&gt;鼓励女性参与开源社区的项目（不限于学生，任何年龄的女性都可参加）：&lt;br /&gt;
+https://live.gnome.org/OutreachProgramForWomen  &lt;/p&gt;</summary><category term="Code"></category></entry></feed>
