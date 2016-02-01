@@ -24,7 +24,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Site Source', 'https://github.com/gzlug/gzlug.org/'),
          ('Slides', 'https://github.com/gzlug/slides'),
-         ('北京 GUN/Linux 用户组', 'http://beijinglug.org/'),
+         ('北京GNU/Linux用户组', 'https://blug.sh/'),
          ('上海 Linux 用户组', 'http://www.shlug.org/'),
 	 ('Techparty', 'http://techparty.org/'))
 
