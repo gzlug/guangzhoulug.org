@@ -42,3 +42,7 @@ DEFAULT_PAGINATION = 10
 THEME = 'pelican-themes/pelican-bootstrap3'
 DISPLAY_TAGS_INLINE = True
 DISPLAY_CATEGORIES_ON_MENU = False
+
+# Plugin setting
+PLUGIN_PATHS = ['plugins/']
+PLUGINS = ['pelican-bootstrapify']
