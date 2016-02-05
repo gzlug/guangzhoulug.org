@@ -1,4 +1,5 @@
 Title: 寻路指南
+Slug: TransferGuide
 
 线下聚会交通指南，我们常常在以下地点聚会：
 
