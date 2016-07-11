@@ -25,12 +25,13 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Site Source', 'https://github.com/gzlug/gzlug.org/'),
          ('Slides', 'https://github.com/gzlug/slides'),
          ('北京 GNU/Linux 用户组', 'https://blug.sh/'),
-         ('上海 Linux 用户组', 'http://www.shlug.org/'),
-	 ('Techparty', 'http://techparty.org/'))
+         ('清华大学 TUNA 协会', 'https://tuna.moe/'),
+         ('上海 Linux 用户组', 'https://shanghailug.github.io/'),
+         ('Techparty', 'http://techparty.org/'))
 
 # Social widget
 SOCIAL = (('GitHub','https://github.com/gzlug'),
-	  ('Twitter','https://twitter.com/GuangzhouLUG'),
+          ('Twitter','https://twitter.com/GuangzhouLUG'),
           ('Weibo', 'http://weibo.com/gzlug'),
           ('Google Group', 'https://groups.google.com/group/gzlug'),
           ('Douban', 'http://www.douban.com/people/gzlug/'))
