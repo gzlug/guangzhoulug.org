@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>广州 GNU/Linux 用户组</title><link href="http://gzlug.org/" rel="alternate"></link><link href="http://gzlug.org/feeds/announcement.atom.xml" rel="self"></link><id>http://gzlug.org/</id><updated>2014-10-25T00:00:00+08:00</updated><entry><title>Ubuntu/Ubuntu Kylin 14.10 Release Party</title><link href="http://gzlug.org/ubuntuubuntu-kylin-1410-release-party.html" rel="alternate"></link><updated>2014-10-25T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2014-10-25:ubuntuubuntu-kylin-1410-release-party.html</id><summary type="html">&lt;p&gt;Hi all,&lt;br/&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>广州 GNU/Linux 用户组</title><link href="http://gzlug.org/" rel="alternate"></link><link href="http://gzlug.org/feeds/announcement.atom.xml" rel="self"></link><id>http://gzlug.org/</id><updated>2016-10-17T00:00:00+08:00</updated><entry><title>第六届深度开发者与用户大会广州站</title><link href="http://gzlug.org/2016-DDUC.html" rel="alternate"></link><updated>2016-10-17T00:00:00+08:00</updated><author><name>LastAvengers</name></author><id>tag:gzlug.org,2016-10-17:2016-DDUC.html</id><summary type="html">&lt;p&gt;各位好，&lt;/p&gt;
+&lt;p&gt;本月 22 号，即本周六，GZLUG 将和 Deepin 一起在贝塔咖啡举办深度开发者与用户大会（DDUC），
+一年一度的大会旨在向所有需要的人提供交互体验完美的深度操作系统，
+届时现场将有主题演讲，自由交流，发放礼品和抽奖等活动，欢迎各路开源爱好者前来参与。&lt;/p&gt;
+&lt;p&gt;以下是本次活动的详细情况：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;时间：10 月 22 号（周六）下午 2:00 - 6:00&lt;/li&gt;
+&lt;li&gt;地点：客村 T.I.T 创意园，贝塔咖啡（&lt;a href="pages/TransferGuide.html"&gt;寻路指南&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;费用：无需费用，Deepin 赞助场地与饮料&lt;/li&gt;
+&lt;li&gt;活动内容：&lt;/li&gt;
+&lt;li&gt;主题演讲：&lt;ul&gt;
+&lt;li&gt;Shawn C：《征途：HardenedLinux 社区 2016》&lt;/li&gt;
+&lt;li&gt;王勇（manateelazycat）：《Next Deepin 15.4》&lt;/li&gt;
+&lt;li&gt;Jactry：《谁是我们的敌人？谁是我们的朋友——什么人在贡献开源？》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;自由交流&lt;/li&gt;
+&lt;li&gt;抽奖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;更多信息：&lt;a href="http://www.huodongxing.com/event/6353153623700"&gt;2016第六届深度开发者与用户大会广州站&lt;/a&gt;&lt;/p&gt;</summary><category term="Deepin"></category><category term="Party"></category></entry><entry><title>Ubuntu/Ubuntu Kylin 14.10 Release Party</title><link href="http://gzlug.org/ubuntuubuntu-kylin-1410-release-party.html" rel="alternate"></link><updated>2014-10-25T00:00:00+08:00</updated><author><name>Jactry</name></author><id>tag:gzlug.org,2014-10-25:ubuntuubuntu-kylin-1410-release-party.html</id><summary type="html">&lt;p&gt;Hi all,&lt;br/&gt;
 十一月份的活动来了 :)  &lt;/p&gt;
 &lt;p&gt;11 月 1 号下午，Ubuntu 14.10 Release Party 在中大大学城校区进行，本次活动除了有丰富的礼品，还有近距离接触围观超级计算机的机会~  &lt;/p&gt;
 &lt;p&gt;因为本次活动内容包括组织参观超算中心，所以参加需要报名，详细情况和报名请参照：&lt;br/&gt;
