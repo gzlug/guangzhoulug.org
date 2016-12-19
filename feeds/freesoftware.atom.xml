@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>广州 GNU/Linux 用户组</title><link href="http://gzlug.org/" rel="alternate"></link><link href="http://gzlug.org/feeds/freesoftware.atom.xml" rel="self"></link><id>http://gzlug.org/</id><updated>2016-12-18T00:00:00+08:00</updated><entry><title>如何用金钱支持自由软件</title><link href="http://gzlug.org/how-to-donate-money-to-fsf.html" rel="alternate"></link><published>2016-12-18T00:00:00+08:00</published><updated>2016-12-18T00:00:00+08:00</updated><author><name>jactry</name></author><id>tag:gzlug.org,2016-12-18:how-to-donate-money-to-fsf.html</id><summary type="html">&lt;p&gt;只要你是 Linux 用户，那么你就是 GNU 项目的受益者。如果你会写代码，你可以为自由软件贡献过代码。如果你会设计，你可以为自由软件贡献好看的设计作品。抑或你外语好，你也可以为自由软件提交翻译。为自由软件贡献自己力量的途径还有很多，如果你觉得这些都并不是你擅长的，或者你没有时间，可是你又有十分强烈地想要为自由软件做点什么，那么或许你可以考虑给自由软件基金会（Free Software Foundation&lt;a href="https://zh.wikipedia.org/wiki/自由软件基金会"&gt;[0]&lt;/a&gt;）捐点钱。:-)&lt;/p&gt;
+&lt;p&gt;自由软件基金会目前已经开始为 2017 年募集经费了，令人感慨的是，这么大一个 GNU 项目背后的基金会，居然只要了 45 万美金的资金用于 2017 年的运作，如果按照一人一年 10 万美金的年收入，也才够雇 4.5 个全职的人。这点钱对于商业公司简直微不足道。&lt;/p&gt;
+&lt;p&gt;给自由软件基金会捐钱并不是很复杂，只要你有 vista、master 卡或者 PayPal，在这个页面填写完相关资料、付款便可完成：&lt;a href="https://my.fsf.org/donate"&gt;https://my.fsf.org/donate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class="img-responsive" src="/images/2016-12-18-how-to-donate-money-to-fsf/fsf0.png" width="50%"/&gt;
+如果你是首次给自由软件基金会捐钱，你还可以考虑注册成为会员：&lt;a href="https://my.fsf.org/join"&gt;https://my.fsf.org/join&lt;/a&gt;，填写资料时，如果你选中了上面有图片的这个选项，注册成功后自由软件基金会给你寄出一个 ID 卡（不过据说这个邮寄过程很缓慢）。如果你并不想要这个 ID 卡，那么就选中上面那个选项好了，那么你捐赠的所有钱就将全部投入基金会的运作。&lt;/p&gt;
+&lt;p&gt;&lt;img class="img-responsive" src="/images/2016-12-18-how-to-donate-money-to-fsf/fsf1.png" width="50%"/&gt;
+捐赠数目有很多可选项，还可以选择自动更新。“Monthly Associate Member” 是按月捐赠。&lt;/p&gt;
+&lt;p&gt;&lt;img class="img-responsive" src="/images/2016-12-18-how-to-donate-money-to-fsf/fsf2.png" width="50%"/&gt;&lt;/p&gt;
+&lt;h2&gt;捐赠其他开源项目&lt;/h2&gt;
+&lt;p&gt;当然除了自由软件基金会，你也可以选择为其他开源项目捐钱，来支持他们，顺便为你从中受益过的项目付费。&lt;/p&gt;
+&lt;p&gt;比如你使用的发行版：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.debian.org/donations"&gt;Debian&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://linuxmint.com/donors.php"&gt;Linux Mint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.archlinux.org/donate/"&gt;ArchLinux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://elementary.io/zh_CN/get-involved#funding"&gt;Elementary OS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;你使用的应用：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.libreoffice.org/donate/"&gt;LibreOffice&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.gimp.org/donating/"&gt;GIMP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://donate.mozilla.org/"&gt;Firefox/Mozilla&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.kde.org/community/donations/index.php"&gt;KDE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;其他：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://supporters.eff.org/donate/button"&gt;EFF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://donate.torproject.org/"&gt;Tor project&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;</summary><category term="fsf"></category><category term="donate"></category></entry></feed>
