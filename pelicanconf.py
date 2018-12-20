@@ -36,6 +36,12 @@ SOCIAL = (('GitHub','https://github.com/gzlug'),
           ('Google Group', 'https://groups.google.com/group/gzlug'),
           ('Douban', 'http://www.douban.com/people/gzlug/'))
 
+MENUITEMS = (('关于我们', '/pages/AboutUs.html'),
+             ('加入我们', '/pages/JoinUs.html'),
+             ('邮件列表', '/pages/MailingList.html'),
+             ('寻路指南', '/pages/TransferGuide.html'),
+             ('捐赠', '/pages/Donation.html'))
+
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -43,6 +49,7 @@ DEFAULT_PAGINATION = 10
 THEME = 'pelican-themes/pelican-bootstrap3'
 DISPLAY_TAGS_INLINE = True
 DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU=True
 
 # Plugin setting
 PLUGIN_PATHS = ['plugins/']
