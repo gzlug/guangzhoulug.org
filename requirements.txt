@@ -6,7 +6,7 @@ Jinja2==2.7.3
 Markdown==2.5.2
 MarkupSafe==0.23
 pelican==3.5.0
-Pygments==2.0.1
+Pygments==2.7.4
 python-dateutil==2.3
 pytz==2014.10
 six==1.8.0
